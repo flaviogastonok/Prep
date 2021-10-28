@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+}
+
+img { 
+   width: 400px;
+}
+    
+
+
+#spanid {
+    font-size: 25px;
+    margin: 50px;
+}
+
+#thirdid {
+    height: 900px;
+    width: 500px;
+    background-color: mediumaquamarine;
+    padding: 50px;
+    border: 3px solid black;
+
+}
