@@ -1,23 +1,16 @@
-h1 {
-    color:red;
+div { 
+    height: 100px;
+    width: 100px;
 }
-
-img { 
-   width: 400px;
+#red{
+    background-color: red;
 }
-    
-
-
-#spanid {
-    font-size: 25px;
-    margin: 50px;
+#blue{
+    background-color: blue;
 }
-
-#thirdid {
-    height: 900px;
-    width: 500px;
-    background-color: mediumaquamarine;
-    padding: 50px;
-    border: 3px solid black;
-
+#green {
+    background-color: green;
+}
+#container {
+    display: flex;
 }
