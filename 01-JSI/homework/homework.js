@@ -260,10 +260,10 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Pueden usar un while o un bucle do ... while (Investigarlo si quieren hacerlo de la segunda forma)
   // Tu código:
-  var times = 0;
-  while(times < 8) {
+  var contador = 0;
+  while(contador < 8) {
     numero = numero + 5;
-    times++;
+    contador++;
   }
   return numero;
 }
